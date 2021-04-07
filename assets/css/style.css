@@ -42,6 +42,13 @@ a:hover {
   color: #4e4e4e;
 }
 
+.check-align {
+  position: absolute;
+  right: 0rem;
+  width: 19vw;
+  margin-top: -3px;
+}
+
 .box-shadow,
 .paralax-mf,
 .service-box,
@@ -437,6 +444,9 @@ a:hover {
   border-radius: 0.3rem;
 }
 
+.bi {
+  color: green;
+}
 /*--------------------------------------------------------------
 # Nav Bar
 --------------------------------------------------------------*/
